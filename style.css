@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 1;
+    padding: 1;
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/020/235/556/small/abstract-comic-yellow-background-free-vector.jpg);
+}
+
+header {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_c_lPJ-1OizP96LkvOmaNwjCxEhLXJn7HGA&s);
+    color: rgb(201, 163, 13);
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 7;
+    display: flex;
+    justify-content: center;
+    background: #333;
+    margin: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+section {
+    padding: 20px;
+    margin: 25px;
+}
+
+footer {
+    text-align: center;
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20210115/pngtree-abstract-blue-orange-gradient-triangle-colorful-bright-background-image_519849.jpg);
+    color: black;
+    padding: 10px 0;
+}
